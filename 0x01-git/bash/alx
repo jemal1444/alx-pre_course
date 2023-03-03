@@ -1,2 +1,6 @@
+echo "ALX School"
 #!/bin/bash
+<<<<<<< HEAD
 ALX Schoolis so coll!
+=======
+>>>>>>> update_script
